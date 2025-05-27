@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 1rem;
+  background: #f0fff0;
+}
+
+h1 {
+  color: #2e8b57;
+}
+
+nav a, a {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #2e8b57;
+  font-weight: bold;
+}
+
+form label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.plant-card {
+  border: 1px solid #ccc;
+  background: white;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+}
